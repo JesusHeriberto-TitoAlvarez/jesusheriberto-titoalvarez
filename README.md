@@ -26,7 +26,7 @@ Me interesa construir sistemas que resuelvan problemas reales, integren servicio
 ### 🔹 Chatbot Ads Manager&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/cloud-chatbot-ads-manager)
 Sistema de automatización para gestión y control de campañas publicitarias, integrando APIs y flujos inteligentes para optimizar procesos de marketing.
 
-### 🔹 TerraSmart / AquaSentinel
+### 🔹 TerraSmart / AquaSentinel&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/cloud-terra-smart)
 Plataforma orientada a análisis y alertas para gestión de riesgos e impacto social, integrando datos, automatización y procesamiento en la nube.
 
 > Ambos proyectos se encuentran **finalizados** y podrán actualizarse en el futuro conforme evolucionen las políticas y plataformas involucradas.
