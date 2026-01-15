@@ -27,7 +27,7 @@ Me interesa construir sistemas que resuelvan problemas reales, integren servicio
 Sistema de automatización para gestión y control de campañas publicitarias, integrando APIs y flujos inteligentes para optimizar procesos de marketing.
 
 ### 🔹 TerraSmart / AquaSentinel&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/cloud-terra-smart)
-Plataforma orientada a análisis y alertas para gestión de riesgos e impacto social, integrando datos, automatización y procesamiento en la nube.
+Plataforma orientada al análisis y emisión de alertas tempranas para la prevención de inundaciones, enfocada en la gestión de riesgos y el impacto social, integrando datos, automatización y procesamiento en la nube.
 
 > Ambos proyectos se encuentran **finalizados** y podrán actualizarse en el futuro conforme evolucionen las políticas y plataformas involucradas.
 
