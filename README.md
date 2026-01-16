@@ -33,6 +33,7 @@ Plataforma orientada al análisis y emisión de alertas tempranas para la preven
 Portafolio profesional de **case studies reales de Google Ads**, documentando más de **30 meses de gestión continua** de campañas publicitarias, organizadas por **etapas de madurez**: aprendizaje, optimización sostenida y escalado.
 
 Incluye análisis y toma de decisiones en campañas **Search** y **Performance Max**, segmentación por ciudad, control de eficiencia (CTR, CPC), optimización continua y escalado mediante automatización.  
+
 Las métricas se presentan de forma **agregada y anonimizada**, con foco en el **criterio profesional y los aprendizajes obtenidos**.
 
 ---
