@@ -35,8 +35,6 @@ Portafolio profesional de **case studies reales de Google Ads**, documentando m�
 Incluye análisis y toma de decisiones en campañas **Search** y **Performance Max**, segmentación por ciudad, control de eficiencia (CTR, CPC), optimización continua y escalado mediante automatización.  
 Las métricas se presentan de forma **agregada y anonimizada**, con foco en el **criterio profesional y los aprendizajes obtenidos**.
 
-> Ambos proyectos se encuentran **finalizados** y podrán actualizarse en el futuro conforme evolucionen las políticas y plataformas involucradas.
-
 ---
 
 ## 🧩 Perfil profesional
