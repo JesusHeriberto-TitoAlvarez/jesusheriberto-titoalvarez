@@ -29,6 +29,12 @@ Sistema de automatización para gestión y control de campañas publicitarias, i
 ### 🔹 TerraSmart / AquaSentinel&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/cloud-terra-smart)
 Plataforma orientada al análisis y emisión de alertas tempranas para la prevención de inundaciones, enfocada en la gestión de riesgos y el impacto social, integrando datos, automatización y procesamiento en la nube.
 
+### 📊 Google Ads Performance Portfolio (2022–2025)&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-portfolio)
+Portafolio profesional de **case studies reales de Google Ads**, documentando más de **30 meses de gestión continua** de campañas publicitarias, organizadas por **etapas de madurez**: aprendizaje, optimización sostenida y escalado.
+
+Incluye análisis y toma de decisiones en campañas **Search** y **Performance Max**, segmentación por ciudad, control de eficiencia (CTR, CPC), optimización continua y escalado mediante automatización.  
+Las métricas se presentan de forma **agregada y anonimizada**, con foco en el **criterio profesional y los aprendizajes obtenidos**.
+
 > Ambos proyectos se encuentran **finalizados** y podrán actualizarse en el futuro conforme evolucionen las políticas y plataformas involucradas.
 
 ---
