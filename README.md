@@ -1,8 +1,8 @@
 # 👋 Hola, soy Jesús H. Tito Álvarez
 
-💼 Profesional en informática con experiencia práctica en el **ecosistema Google**, combinando **desarrollo y operación en Google Cloud** con la **implementación y optimización de campañas de Google Ads para empresas de presencia nacional**.
+💼 Profesional en informática con experiencia en el **ecosistema Google**, enfocado en la **automatización de servicios**, **integración de APIs** y **operación de soluciones en la nube** para entornos empresariales.
 
-Trabajo en la construcción de sistemas que integran **APIs empresariales**, automatizan procesos y sostienen operaciones estables y escalables, especialmente en contextos donde **datos, marketing y cloud convergen**.
+Además de mi perfil técnico, cuento con **experiencia práctica en la implementación y gestión de campañas de Google Ads** dentro de una **empresa con presencia a nivel nacional**, participando en procesos reales de optimización, control y escalado de campañas publicitarias.
 
 ---
 
