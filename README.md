@@ -1,48 +1,58 @@
 # 👋 Hola, soy Jesús H. Tito Álvarez
 
-💼 Profesional en informática con enfoque en **automatización de procesos**, **integración de APIs** y **soluciones en la nube** orientadas a empresas.
+💼 Profesional en informática con experiencia práctica en el **ecosistema Google**, combinando **desarrollo y operación en Google Cloud** con la **implementación y optimización de campañas de Google Ads para empresas de presencia nacional**.
 
-Me interesa construir sistemas que resuelvan problemas reales, integren servicios complejos y escalen correctamente en entornos productivos.
+Trabajo en la construcción de sistemas que integran **APIs empresariales**, automatizan procesos y sostienen operaciones estables y escalables, especialmente en contextos donde **datos, marketing y cloud convergen**.
 
 ---
 
 ## 🧭 Enfoque profesional
 - ⚙️ Automatización de procesos digitales y operativos.
-- 🔌 Integración y uso de **APIs complejas y de acceso restringido**.
-- ☁️ Trabajo en entornos **cloud**, especialmente sobre el ecosistema de **Google**.
-- 📊 Diseño de soluciones orientadas a **eficiencia, control y sostenibilidad**.
+- 🔌 Integración de **APIs complejas y de acceso restringido**.
+- ☁️ Desarrollo y operación de soluciones en **entornos cloud**, principalmente en el ecosistema de **Google**.
+- 📊 Diseño de sistemas orientados a **eficiencia, control y sostenibilidad** a largo plazo.
 
 ---
 
-## 🧠 Experiencia técnica relevante
-- 🔐 Integración y operación de **APIs**, incluyendo plataformas con políticas estrictas como **Google Ads**.
-- ☁️ Trabajo en **entornos cloud** para ejecución, monitoreo y mantenimiento de soluciones.
-- 🤖 Uso de herramientas de automatización apoyadas en **inteligencia artificial** como soporte operativo.
-- 🏗️ Enfoque en **arquitectura funcional** más que en desarrollo web tradicional.
+## 🧠 Experiencia técnica destacada
+- 🔐 Integración y operación de **APIs empresariales**, incluyendo plataformas con políticas estrictas como **Google Ads**.
+- ☁️ Trabajo en **infraestructura cloud** para ejecución, monitoreo y mantenimiento de servicios.
+- 🤖 Automatización de flujos apoyados en **inteligencia artificial** como soporte operativo y de decisión.
+- 🏗️ Enfoque en **arquitectura funcional y lógica de negocio**, más que en desarrollo web tradicional.
 
 ---
 
-## 🚀 Proyectos
-### 🔹 Chatbot Ads Manager&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/cloud-chatbot-ads-manager)
-Sistema de automatización para gestión y control de campañas publicitarias, integrando APIs y flujos inteligentes para optimizar procesos de marketing.
+## 🚀 Proyectos destacados
 
-### 🔹 TerraSmart / AquaSentinel&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/cloud-terra-smart)
-Plataforma orientada al análisis y emisión de alertas tempranas para la prevención de inundaciones, enfocada en la gestión de riesgos y el impacto social, integrando datos, automatización y procesamiento en la nube.
+### 📊 Google Ads Performance Portfolio (2022–2025)  
+🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-portfolio)
 
-### 📊 Google Ads Performance Portfolio (2022–2025)&nbsp;&nbsp;&nbsp;&nbsp;🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-portfolio)
 Portafolio profesional de **case studies reales de Google Ads**, documentando más de **30 meses de gestión continua** de campañas publicitarias, organizadas por **etapas de madurez**: aprendizaje, optimización sostenida y escalado.
 
 Incluye análisis y toma de decisiones en campañas **Search** y **Performance Max**, segmentación por ciudad, control de eficiencia (CTR, CPC), optimización continua y escalado mediante automatización.  
-
 Las métricas se presentan de forma **agregada y anonimizada**, con foco en el **criterio profesional y los aprendizajes obtenidos**.
+
+---
+
+### 🤖 Chatbot Ads Manager  
+🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/cloud-chatbot-ads-manager)
+
+Sistema de automatización para la gestión y control de campañas publicitarias, integrando APIs y flujos inteligentes para optimizar procesos de marketing y operación.
+
+---
+
+### 🌍 TerraSmart / AquaSentinel  
+🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/cloud-terra-smart)
+
+Plataforma orientada al análisis y emisión de **alertas tempranas para la prevención de inundaciones**, enfocada en la gestión de riesgos y el impacto social mediante datos, automatización y procesamiento en la nube.
 
 ---
 
 ## 🧩 Perfil profesional
 Trabajo con una mentalidad orientada a:
-- ✅ Soluciones estables y mantenibles.  
-- ✅ Cumplimiento de políticas y buenas prácticas de plataformas empresariales.  
-- ✅ Resultados medibles y aplicables en contextos reales.
+- ✅ Soluciones **estables, mantenibles y auditables**.
+- ✅ Cumplimiento de **políticas, buenas prácticas y restricciones técnicas** de plataformas empresariales.
+- ✅ Resultados **medibles y aplicables** en contextos reales.
 
 Busco participar en **proyectos serios**, con impacto y proyección, especialmente en **entornos empresariales exigentes**.
 
