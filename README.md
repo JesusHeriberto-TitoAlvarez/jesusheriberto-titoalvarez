@@ -25,7 +25,7 @@ Además de mi perfil técnico, cuento con **experiencia práctica en la implemen
 ## 🚀 Proyectos destacados
 
 ### 📊 Google Ads – Empresa Industrial y Comercial (Presencia Nacional) | 2022–2025  
-🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/Google_Ads_-_Empresa_Industrial_y_Comercial_-_Presencia_Nacional_-_2022_a_2025)
+🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-empresa-industrial-2022-2025)
 
 Portafolio profesional de **case studies Google Ads realizada a una empresa industrial con presencia nacional**, documentando más de **30 meses de gestión continua** de campañas publicitarias, organizadas por **etapas de madurez**: aprendizaje, optimización sostenida y escalado.
 
