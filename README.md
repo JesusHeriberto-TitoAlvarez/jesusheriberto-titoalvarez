@@ -24,6 +24,16 @@ Además de mi perfil técnico, cuento con **experiencia práctica en la implemen
 
 ## 🚀 Proyectos destacados
 
+### 🏥 Google Ads – Organización Comunitaria (Impacto Local) | 2026
+
+🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-organizacion-comunitaria-2026)
+
+Case study de campaña Google Ads orientada a incrementar la visibilidad de **servicios comunitarios gratuitos** (atención médica, asesoría legal y apoyo social), ejecutada bajo **restricciones presupuestarias estrictas**.
+
+Incluye análisis de rendimiento en formato TrueView, optimización de **CPV**, evaluación por dispositivos, comportamiento demográfico y patrones horarios, demostrando eficiencia publicitaria con presupuesto reducido y enfoque estratégico en alcance local.
+
+---
+
 ### 📊 Google Ads - Empresa Industrial y Comercial (Presencia Nacional) | 2022-2025  
 🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-empresa-industrial-2022-2025)
 
