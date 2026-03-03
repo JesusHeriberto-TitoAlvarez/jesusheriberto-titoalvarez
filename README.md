@@ -24,6 +24,18 @@ Además de mi perfil técnico, cuento con **experiencia práctica en la implemen
 
 ## 🚀 Proyectos destacados
 
+---
+
+### 📱 TikTok Ads – Organización Comunitaria (Impacto Local) | 2026  
+
+🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/tiktok-ads-organizacion-comunitaria-2026)
+
+Case study de campaña en TikTok Ads orientada a maximizar visualizaciones de **servicios comunitarios gratuitos** (atención médica, asesoría legal y apoyo social), ejecutada con inversión mínima (**Bs 70**) y optimización enfocada en retención y eficiencia de distribución.
+
+Incluye análisis de rendimiento algorítmico, métricas de retención (2s, 6s y 100%), comportamiento demográfico por edad y sexo, evaluación de CPM y eficiencia de alcance en mercado emergente (Bolivia), demostrando capacidad de optimización bajo restricciones presupuestarias reales.
+
+---
+
 ### 🏥 Google Ads – Organización Comunitaria (Impacto Local) | 2026
 
 🔗 [Ver repositorio en GitHub](https://github.com/JesusHeriberto-TitoAlvarez/google-ads-organizacion-comunitaria-2026)
